@@ -6,4 +6,12 @@ def matrix_transpose(A):
     """
     # Write code here
     matrix = np.array(A)
-    return matrix.T
+    r, c = matrix.shape
+
+    t_matr = np.zeros((c, r), dtype=matrix.dtype)
+
+    for i in range(r):
+        for j in range(c):
+            t_matr[j][i] = matrix[i][j]
+
+    return t_matr
