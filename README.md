@@ -36,6 +36,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Cyclic Encoding | Encode periodic numeric features as sine and cosine coordinates using a specified cycle length. | https://www.tensortonic.com/problems/cyclic-encoding |
 | Discounted Returns | Compute discounted reinforcement-learning returns backward through a reward sequence using a discount factor. | https://www.tensortonic.com/problems/discount-returns |
 | Implement Dot Product | Implement the dot product of equal-length numeric vectors by summing element-wise products without library shortcuts. | https://www.tensortonic.com/problems/dot-product |
+| Double Exponential Smoothing | Apply Holt double exponential smoothing to a time series by updating level and trend components. | https://www.tensortonic.com/problems/double-exponential-smoothing |
 | Compute Entropy for a Node | Compute decision-tree node entropy from class labels using empirical class probabilities and base-two logarithms. | https://www.tensortonic.com/problems/entropy-node |
 | Implement Euclidean Distance | Compute Euclidean distance between equal-length NumPy vectors as the square root of summed squared differences. | https://www.tensortonic.com/problems/euclidean-distance |
 | Expected Calibration Error | Calculate expected calibration error by binning prediction confidence and weighting accuracy-confidence gaps. | https://www.tensortonic.com/problems/expected-calibration-error |
